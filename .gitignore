@@ -1,0 +1,8 @@
+# Keep the Desktop repository from accidentally tracking shortcuts,
+# downloaded apps, and personal desktop clutter.
+*
+
+!.gitignore
+!README.md
+!projects/
+!projects/**
